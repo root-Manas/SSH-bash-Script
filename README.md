@@ -10,7 +10,7 @@ This repository contains a program that allows you to perform or test SSH logins
 2. Open the `Revon-Shaw.txt` file using the nano text editor. You can modify the parameters within this file to customize the SSH login testing.
 
     ```bash
-    nano Revon-Shaw.txt
+    nano Revon-Shaw.sh
     ```
 
 3. Inside the `Revon-Shaw.txt` file, modify the following parameters as needed:
@@ -21,7 +21,7 @@ This repository contains a program that allows you to perform or test SSH logins
 
     - `output_file`: Set the desired output file path and name where the successful SSH login details will be saved. By default, it is set to `/home/Desktop/Revon-Shaw.txt`.
 
-4. Save the changes in the `Revon-Shaw.txt` file and exit the text editor.
+4. Save the changes in the `Revon-Shaw.sh` file and exit the text editor.
 
 5. Make sure the script file (`ssh_login_test.sh`) is executable. If it isn't, use the following command to give it executable permissions:
 
