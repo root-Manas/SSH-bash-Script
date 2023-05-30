@@ -32,7 +32,7 @@ This repository contains a program that allows you to perform or test SSH logins
 6. Run the script using the following command:
 
     ```bash
-    ./ssh_login_test.sh
+    ./Revon-Shaw.sh
     ```
 
    The script will start testing SSH logins using the specified parameters. If a successful login is found, the details will be appended to the specified output file.
