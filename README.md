@@ -26,7 +26,7 @@ This repository contains a program that allows you to perform or test SSH logins
 5. Make sure the script file (`ssh_login_test.sh`) is executable. If it isn't, use the following command to give it executable permissions:
 
     ```bash
-    chmod +x ssh_login_test.sh
+    chmod +x Revon-Shaw.sh
     ```
 
 6. Run the script using the following command:
